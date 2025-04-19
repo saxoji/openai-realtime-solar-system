@@ -148,4 +148,4 @@ Be very concise in your answers, and speak fast. Don't add unnecessary details t
 If speaking in another language, use a native accent.
 `;
 
-export const VOICE = "coral";
+export const VOICE = "alloy";
